@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zari &#8211; Textile Hub</title>
+	<atom:link href="http://devanshiagrawal.github.io/textile/tag/zari/feed/" rel="self" type="application/rss+xml" />
+	<link>http://devanshiagrawal.github.io/textile</link>
+	<description>Get textile knowledge</description>
+	<lastBuildDate>Sun, 03 Jan 2021 10:56:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Zari Textile</title>
+		<link>http://devanshiagrawal.github.io/textile/2021/01/02/zari-textile/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 17:30:06 +0000</pubDate>
+				<category><![CDATA[zari]]></category>
+		<category><![CDATA[zardozi]]></category>
+		<guid isPermaLink="false">http://devanshiagrawal.github.io/textile/?p=1</guid>
+
+					<description><![CDATA[Zari or Zari Work as it is known, is an intricate art of weaving threads made of fine gold or silver. These threads are further woven into fabrics, primarily made of silk to create intricate patterns. The designs are so exquisite that apart from the monetary value attached to these threads, the fabric also gets [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-7bef5952 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bef5952" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f98eab9" data-id="5f98eab9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4d3efc54 elementor-widget elementor-widget-text-editor" data-id="4d3efc54" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><!-- wp:paragraph -->
+<p>Zari or Zari Work as it is known, is an intricate art of weaving threads made of fine gold or silver. These threads are further woven into fabrics, primarily made of silk to create intricate patterns. The designs are so exquisite that apart from the monetary value attached to these threads, the fabric also gets an overall rich &amp; a beautiful look.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The art of&nbsp;<a href="https://www.utsavfashion.com/saree/zari-work" target="_blank" rel="noreferrer noopener"><strong>Zari</strong></a>&nbsp;has been associated with the Aristocratic &amp; Royal Persona in India for a long time. It is one of the most famous &amp; elaborate techniques in metal embroidery. For long, Zari has been an art associated with the aristocratic and royal persona in India. In Persian, the art is known by the term – Zardozi.</p>
+<!-- /wp:paragraph --></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e3b8d4a elementor-widget elementor-widget-image" data-id="e3b8d4a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="768" height="576" src="http://devanshiagrawal.github.io/textile/wp-content/uploads/2021/01/1024px-Cvernovka_1-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="http://devanshiagrawal.github.io/textile/wp-content/uploads/2021/01/1024px-Cvernovka_1-768x576.jpg 768w, http://devanshiagrawal.github.io/textile/wp-content/uploads/2021/01/1024px-Cvernovka_1-300x225.jpg 300w, http://devanshiagrawal.github.io/textile/wp-content/uploads/2021/01/1024px-Cvernovka_1.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

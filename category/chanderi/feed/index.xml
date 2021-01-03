@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chanderi &#8211; Textile Hub</title>
+	<atom:link href="http://devanshiagrawal.github.io/textile/category/chanderi/feed/" rel="self" type="application/rss+xml" />
+	<link>http://devanshiagrawal.github.io/textile</link>
+	<description>Get textile knowledge</description>
+	<lastBuildDate>Sun, 03 Jan 2021 11:07:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Chanderi Fabric</title>
+		<link>http://devanshiagrawal.github.io/textile/2021/01/03/chanderi-fabric/</link>
+					<comments>http://devanshiagrawal.github.io/textile/2021/01/03/chanderi-fabric/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 03 Jan 2021 11:07:27 +0000</pubDate>
+				<category><![CDATA[chanderi]]></category>
+		<guid isPermaLink="false">http://devanshiagrawal.github.io/textile/?p=184</guid>
+
+					<description><![CDATA[The chanderi fabric is a type of loom that is produced in the Indian state of Madhya Pradesh. It well known among the handloom cluster of India and occupies a special place. The weaving of Chanderi goes centuries back when it was highly patronized by the Bundela kingdom and other royal families of central India. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The chanderi fabric is a type of loom that is produced in the Indian state of Madhya Pradesh. It well known among the handloom cluster of India and occupies a special place. The weaving of Chanderi goes centuries back when it was highly patronized by the Bundela kingdom and other royal families of central India. Sarees and dresses made from chanderi fabrics are very popular not only in central India, but also across the country.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://devanshiagrawal.github.io/textile/2021/01/03/chanderi-fabric/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
